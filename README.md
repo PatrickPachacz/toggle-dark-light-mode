@@ -12,7 +12,8 @@ This is a solution to the React Site project on Scrimba. Scrimba helps you impro
     2.My Process
         Built with
     3.Author
-
+    
+## Overview
 ## Challenge
 
 Create a first site using React.JS framework with Darkmode toggle.
@@ -26,10 +27,10 @@ This project was bootstrapped with Create React App.
 
 Built with
 
-    Semantic HTML5 markup
-    CSS custom properties
-    React.JS
-    Flexbox
+*  Semantic HTML5 markup
+*  CSS custom properties
+*  React.JS
+*  Flexbox
 
 ## Authors
 
