@@ -14,18 +14,18 @@ This is a solution to the React Site project on Scrimba. Scrimba helps you impro
     3.Author
     
 ## Overview
-## Challenge
+<h3>Challenge</h3>
 
 Create a first site using React.JS framework with Darkmode toggle.
 
 <img src="screenshot.png">
 
-## Getting Started
+<h3>Getting Started</h3>
 
 This project was bootstrapped with Create React App.
 ## My Process
 
-Built with
+<h2>Built with</h2>
 
 *  Semantic HTML5 markup
 *  CSS custom properties
