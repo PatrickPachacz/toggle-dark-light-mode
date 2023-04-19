@@ -1,7 +1,7 @@
 
 # Toggle - Dark/Light mode
 
-This is a solution to the React Site project on Scrimba. Scrimba helps you improve your coding skills by building realistic projects.
+This is a solution to the React Site project on Scrimba. Scrimba helps you improve your coding skills by building realistic projects. Provides user with ability to toggle page between a dark and light mode.
 
 ## Table of Contents
 
@@ -14,11 +14,13 @@ This is a solution to the React Site project on Scrimba. Scrimba helps you impro
     3.Author
     
 ## Overview
-<h3>Challenge</h3>
+<h3>Challenge - Create a first site using React.JS framework with Darkmode toggle</h3>
 
-Create a first site using React.JS framework with Darkmode toggle.
 
-<img src="screenshot.png">
+Dark-mode
+<img src="screenshot.png" />
+Light-mode
+<img src="screenshot1.png /">
 
 <h3>Getting Started</h3>
 
