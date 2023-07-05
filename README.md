@@ -18,9 +18,9 @@ This is a solution to the React Site project on Scrimba. Scrimba helps you impro
 
 
 Dark-mode
-<img src="screenshot.png" />
+<img src="screenshots/screenshot.png" />
 Light-mode
-<img src="screenshot1.png /">
+<img src="screenshots/screenshot1.png /">
 
 <h3>Getting Started</h3>
 
